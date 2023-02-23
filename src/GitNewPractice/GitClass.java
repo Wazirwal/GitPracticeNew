@@ -6,5 +6,6 @@ public class GitClass {
 		System.out.println("I am learning gitHub");
 
 	}
-
+public void test(){
+	System.out.println("I am learning gitHub");
 }
